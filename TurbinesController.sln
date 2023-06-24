@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurbinesController", "TurbinesController\TurbinesController.csproj", "{DBF4D642-1EE6-418C-AE93-ABEC31926DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF4D642-1EE6-418C-AE93-ABEC31926DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF4D642-1EE6-418C-AE93-ABEC31926DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF4D642-1EE6-418C-AE93-ABEC31926DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF4D642-1EE6-418C-AE93-ABEC31926DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADB53496-9451-427A-87D4-A97BADDDF192}
+	EndGlobalSection
+EndGlobal
