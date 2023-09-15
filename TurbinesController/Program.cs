@@ -134,6 +134,10 @@ namespace TurbinesController
             foreach (var msg in receivedMessages)
                 Console.WriteLine(msg);
 
+            Console.WriteLine(-5 % 4);
+            var res = -5 - Math.Floor(-5 / 4.0) * 4;
+            Console.WriteLine(res);
+
             Console.ReadKey();
         }
     }
